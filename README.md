@@ -18,10 +18,10 @@
 
 I’m a Computer Science student specialising in AI & Machine Learning. I enjoy turning applied AI ideas into polished products—especially where thoughtful interfaces, dependable backend systems, and real user value meet.
 
-- 🧠 Building with **AI/ML, TypeScript, Python, and cloud-native tools**
-- 🎵 Shipped an AI music recommender with Spotify OAuth and Gemini
-- 🌍 IEEE CIS volunteer, open-source learner, and systems-design enthusiast
-- 📍 Based in India
+-  Building with **AI/ML, TypeScript, Python, and cloud-native tools**
+-  Shipped an AI music recommender with Spotify OAuth and Gemini
+-  IEEE SB Treasurer, IEEE CIS & CS volunteer, open-source learner, and systems-design enthusiast
+-  Based in India
 
 ## Selected work
 
