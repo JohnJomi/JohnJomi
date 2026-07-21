@@ -68,6 +68,11 @@ Currently exploring:
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JohnJomi/JohnJomi/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
 #  Currently Learning
 
 - Large Language Models
