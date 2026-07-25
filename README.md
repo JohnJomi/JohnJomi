@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm John Jomi 
+# Hi, I'm John Jomi
 
 ### AI Engineer • Full-Stack Developer • Computer Science Student
 
-Building AI-powered applications, scalable backend systems, and practical software that solves real problems.
+Building AI-powered applications, scalable backend systems, and practical software that solves real-world problems.
 
 <p>
   <a href="https://github.com/JohnJomi">
@@ -18,29 +18,29 @@ Building AI-powered applications, scalable backend systems, and practical softwa
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&width=650&lines=Building+AI+Products;Full-Stack+Developer;Learning+Distributed+Systems;Always+Shipping+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&width=650&lines=Building+AI+Products;Full-Stack+Developer;Learning+Distributed+Systems;Always+Shipping+Projects"/>
 
 </div>
 
 ---
 
-#  About Me
+# About Me
 
-I'm a Computer Science student passionate about AI engineering and backend development.
+I'm a Computer Science student with a strong interest in AI systems, backend engineering, and distributed applications.
 
-I enjoy building software that combines clean system design with machine learning to solve real-world problems.
+Most of my work focuses on building practical software—whether that's AI-powered tools, scalable backend services, or full-stack applications. I enjoy learning by building, contributing to open source, and solving real-world engineering problems.
 
-Currently exploring:
+### Current Focus
 
--  AI Engineering
--  Backend Development
--  Cloud Computing
--  Machine Learning
--  Data Engineering
+- AI Engineering
+- Backend Development
+- Distributed Systems
+- Cloud Infrastructure
+- Machine Learning
 
+---
 
-
-#  Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -50,13 +50,19 @@ Currently exploring:
 
 ---
 
-#  GitHub Activity
+# GitHub Statistics
 
 <p align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JohnJomi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
+<img width="49%" src="https://streak-stats.demolab.com?user=JohnJomi&theme=transparent&hide_border=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=JohnJomi&hide_border=true&theme=transparent"/>
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJomi&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -68,28 +74,34 @@ Currently exploring:
 
 ---
 
+# Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JohnJomi/JohnJomi/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/JohnJomi/JohnJomi/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
-#  Currently Learning
+
+
+
+# Currently Learning
 
 - Large Language Models
 - AI Agents
-- Distributed Systems
-- Kubernetes
-- Azure Cloud
+- AWS
+
 
 ---
 
-#  Let's Connect
+# Let's Connect
 
-I'm always interested in collaborating on
+I'm always interested in collaborating on interesting engineering problems, open-source projects, AI applications, and backend systems.
 
-- AI projects
-- Open Source
-- Backend systems
-- Full-stack applications
-
-Feel free to connect!
+Feel free to connect through GitHub, LinkedIn, or email.
