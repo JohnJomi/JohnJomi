@@ -54,7 +54,7 @@ Most of my work focuses on building practical software—whether that's AI-power
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JohnJomi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+
 
 <img width="49%" src="https://streak-stats.demolab.com?user=JohnJomi&theme=transparent&hide_border=true"/>
 
@@ -62,7 +62,7 @@ Most of my work focuses on building practical software—whether that's AI-power
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJomi&layout=compact&theme=transparent&hide_border=true"/>
+
 
 </p>
 
