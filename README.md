@@ -50,6 +50,30 @@ Most of my work focuses on building practical software—whether that's AI-power
 
 ---
 
+# Organizations
+
+<p align="center">
+
+<a href="https://github.com/ProddyAI">
+<img src="https://img.shields.io/badge/@ProddyAI-AI%20Engineering-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/IEEE-CU">
+<img src="https://img.shields.io/badge/@IEEE--CU-ERP%20Development-0A66C2?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+### Proddy AI
+
+AI-powered workplace management platform combining the best capabilities of Slack, Notion, Linear, and AI assistants into a unified productivity ecosystem. Contributing to scalable backend systems, AI features, and modern full-stack development.
+
+### IEEE Student Branch – Christ University
+
+Official engineering organization for the IEEE Student Branch at Christ University, Kengeri Campus. Building enterprise-grade ERP solutions that streamline student branch operations, event management, finance, membership, and administration.
+
+
+
 # GitHub Statistics
 
 <p align="center">
