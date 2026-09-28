@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" role="img" aria-label="Terminal panel: john --profile. Enter full profile at the-profile-gules.vercel.app/about">
+  <title>John Jomi — Full Profile</title>
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58A6FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#30363D" stroke-width="0.5" opacity="0.35"/>
+    </pattern>
+  </defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="818" height="298" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <rect x="1" y="37" width="818" height="262" fill="url(#grid)"/>
+  <path d="M1 13a12 12 0 0 1 12-12h794a12 12 0 0 1 12 12v24H1z" fill="#161B22"/>
+  <line x1="1" y1="37" x2="819" y2="37" stroke="#30363D"/>
+  <rect x="160" y="0.5" width="500" height="1.5" fill="url(#glow)"/>
+
+  <!-- title bar -->
+  <circle cx="24" cy="19" r="5.5" fill="#FF5F57"/>
+  <circle cx="42" cy="19" r="5.5" fill="#FEBC2E"/>
+  <circle cx="60" cy="19" r="5.5" fill="#28C840"/>
+  <text x="410" y="23.5" text-anchor="middle" class="mono" font-size="11" fill="#8B949E" letter-spacing="1">~/johnjomi — zsh</text>
+  <text x="796" y="23.5" text-anchor="end" class="mono" font-size="11" fill="#58A6FF" letter-spacing="2" font-weight="600">PROFILE.EXE</text>
+
+  <!-- prompt -->
+  <text x="32" y="72" class="mono" font-size="14"><tspan fill="#3FB950">➜</tspan><tspan fill="#58A6FF" dx="10">~</tspan><tspan fill="#E6EDF3" dx="10">john --profile</tspan><tspan fill="#58A6FF">▌</tspan></text>
+
+  <!-- identity -->
+  <text x="32" y="116" class="mono" font-size="26" font-weight="700" fill="#E6EDF3" letter-spacing="4">JOHN JOMI</text>
+  <text x="32" y="140" class="mono" font-size="12" fill="#8B949E" letter-spacing="3">AI <tspan fill="#58A6FF">×</tspan> SOFTWARE <tspan fill="#58A6FF">×</tspan> ENGINEERING</text>
+
+  <!-- modules -->
+  <g class="mono" font-size="11" letter-spacing="2" font-weight="600" fill="#C9D1D9">
+    <text x="32" y="180">JOURNEY</text>
+    <text x="172" y="180">CURRENT FOCUS</text>
+    <text x="352" y="180">WHAT'S NEXT</text>
+  </g>
+  <g stroke-width="2">
+    <line x1="32" y1="190" x2="92" y2="190" stroke="#58A6FF"/>
+    <line x1="172" y1="190" x2="232" y2="190" stroke="#58A6FF" stroke-opacity="0.7"/>
+    <line x1="352" y1="190" x2="412" y2="190" stroke="#58A6FF" stroke-opacity="0.45"/>
+  </g>
+
+  <text x="32" y="228" class="sans" font-size="14" fill="#8B949E">The repositories show what I build.</text>
+  <text x="32" y="250" class="sans" font-size="14" fill="#C9D1D9">The full profile shows the person behind them.</text>
+
+  <!-- right: status + CTA -->
+  <g class="mono" font-size="11" fill="#8B949E" letter-spacing="1">
+    <text x="560" y="72">status<tspan x="640" fill="#3FB950">● online</tspan></text>
+    <text x="560" y="94">host<tspan x="640" fill="#C9D1D9">vercel</tspan></text>
+    <text x="560" y="116">route<tspan x="640" fill="#C9D1D9">/about</tspan></text>
+    <text x="560" y="138">mode<tspan x="640" fill="#C9D1D9">full profile</tspan></text>
+  </g>
+  <line x1="530" y1="56" x2="530" y2="256" stroke="#30363D" stroke-dasharray="3 4"/>
+
+  <rect x="560" y="190" width="228" height="46" rx="8" fill="#58A6FF" fill-opacity="0.08" stroke="#58A6FF"/>
+  <text x="674" y="218" text-anchor="middle" class="mono" font-size="14" font-weight="700" fill="#58A6FF" letter-spacing="2">ENTER PROFILE →</text>
+
+  <!-- footer url -->
+  <text x="788" y="280" text-anchor="end" class="mono" font-size="11" fill="#6E7681" letter-spacing="0.5">the-profile-gules.vercel.app/about</text>
+  <text x="32" y="280" class="mono" font-size="11" fill="#484F58">exit 0</text>
+</svg>
