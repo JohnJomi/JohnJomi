@@ -47,7 +47,7 @@ Most of my work focuses on building practical software—whether that's AI-power
 
 <p align="center">
   <a href="https://the-profile-gules.vercel.app/about">
-    <img src="./.github/assets/profile-portal.svg" width="820" alt="Enter John Jomi's full profile — the-profile-gules.vercel.app/about"/>
+    <img src="./.github/assets/profile-portal.svg" width="880" alt="Enter John Jomi's full profile — the-profile-gules.vercel.app/about"/>
   </a>
 </p>
 
