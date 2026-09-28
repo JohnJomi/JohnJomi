@@ -43,18 +43,13 @@ Most of my work focuses on building practical software—whether that's AI-power
 
 # Beyond the Repository
 
-<div align="center">
+<p align="center"><i>A deeper look beyond the repositories — the journey, the focus, and what comes next.</i></p>
 
-**My GitHub shows what I build.**<br/>
-**My full profile shows why I build it** — the journey, the focus, and what's next.
-
-<br/>
-
-<a href="https://the-profile-gules.vercel.app/about">
-  <img src="https://img.shields.io/badge/Explore_My_Full_Profile-%E2%86%92-58A6FF?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=white" alt="Explore my full profile"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://the-profile-gules.vercel.app/about">
+    <img src="./.github/assets/profile-portal.svg" width="880" alt="Enter John Jomi's full profile — the-profile-gules.vercel.app/about"/>
+  </a>
+</p>
 
 ---
 
