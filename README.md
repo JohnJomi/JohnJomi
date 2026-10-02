@@ -34,7 +34,6 @@ Most of my work focuses on building practical software—whether that's AI-power
 
 - AI Engineering
 - Backend Development
-- Distributed Systems
 - Cloud Infrastructure
 - Machine Learning
 - Sustainable engineering
